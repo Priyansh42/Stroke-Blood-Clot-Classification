@@ -4,6 +4,6 @@
 
 ![Image](https://user-images.githubusercontent.com/68781375/183031676-456eb164-a65b-45cc-bdf3-a6b7ed528526.jpg)
 
-## Other Contributors
+## Contributors
 
-[Harshil Rana](https://github.com/harshil311) | [Ishan Shah](https://github.com/ishanshah1802) | [Manan Shah](https://github.com/Manan2606)
+[Priyansh Shah](https://github.com/Priyansh42) ● [Harshil Rana](https://github.com/harshil311) ● [Ishan Shah](https://github.com/ishanshah1802) ● [Manan Shah](https://github.com/Manan2606)
