@@ -15,6 +15,7 @@ https://www.kaggle.com/competitions/mayo-clinic-strip-ai/data
 ## OpenSlide Library
 
 Documentation: https://openslide.org/api/python/
+
 Download binaries for Windows: https://openslide.org/download/#windows-binaries
 
 ## Demo Video
