@@ -18,6 +18,10 @@ Documentation: https://openslide.org/api/python/
 
 Download binaries for Windows: https://openslide.org/download/#windows-binaries
 
+## Output Screenshot
+
+![Output](https://user-images.githubusercontent.com/68781375/200110713-f88c5b3a-bcbf-4826-94c2-ca2fda0ededf.JPG)
+
 ## Demo Video
 
 https://user-images.githubusercontent.com/68781375/198849714-e025440c-8441-417e-8db6-0509d4388b6b.mp4
