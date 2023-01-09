@@ -25,3 +25,7 @@ Download binaries for Windows: https://openslide.org/download/#windows-binaries
 ## Demo Video
 
 https://user-images.githubusercontent.com/68781375/198849714-e025440c-8441-417e-8db6-0509d4388b6b.mp4
+
+## Similar Projects
+
+Lung Cancer Detection: https://github.com/Priyansh42/Lung-Cancer-Detection
